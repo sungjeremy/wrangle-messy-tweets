@@ -1,2 +1,2 @@
-# wrangle-messy-tweets
-Wrangle quality &amp; Tiny issues to match criteria for trustworthy analysis. WeRateDogs Tweets retrieved via Twitter API.
+# wrangling-messy-tweets
+Retrieve data via Twitter API. Clean up data with quality issues and to match Tidy data criteria for trustworthy analysis result
